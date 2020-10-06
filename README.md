@@ -3,9 +3,9 @@
 
 台北親師生拉出模組的暫時解法
 
-* features web app 列表
-* devMode 開發模式
-* userMode 釋出模式
+* features: web app 列表
+* devMode: 開發模式
+* userMode: 釋出模式
 
 組合順序為 school-specific 先行後接 basic-config, 若需要完全自定義順序, 全部都寫至 school-specific 即可
 
