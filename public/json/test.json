@@ -285,7 +285,6 @@
                 "atSchool",
                 "ePay",
                 "cooc",
-                "coclsP",
                 "oAuth"
             ]
     	},
@@ -371,18 +370,12 @@
     	"basicRoleConfig":{
     		"teacher": [
                 "bulletin",
-                "eCoin",
                 "classroom",
-                "cooc",
-                "tron",
-                "coclsT"
+                "cooc"
             ],
             "student": [
                 "bulletin", 
-                "eCoin",
                 "cooc",
-                "tron",
-                "coclsS",
                 "absence"
             ],
             "parent": [
@@ -390,7 +383,6 @@
                 "atSchool",
                 "ePay",
                 "cooc",
-                "coclsP",
                 "absence"
             ]
     	},
@@ -399,56 +391,68 @@
     		"高中": {
                 "teacher": [
                     "history",
+                    "dayOffHS",
                     "ssSh"  
                 ],
                 "student": [
                     "ePay",
                     "history",
+                    "dayOffHS",
                     "ssSh",
                     "award"
                 ],
                 "parent": [
+                    "dayOffHS",
                     "award"
                 ]
             },
             "高職": {
                 "teacher": [
                     "history",
+                    "dayOff",
                     "ssSTh"
                 ],
                 "student": [
                     "ePay",
                     "history",
+                    "dayOff",
                     "ssSTh",
                     "award"
                 ],
                 "parent": [
+                    "dayOff",
                     "award"
                 ]
             },
             "國中": {
                 "teacher": [
+                    "dayOffJS",
                     "ssJh"
                     
                 ],
                 "student": [
+                    "dayOffJS",
                     "ssJh",
                     "award" 
                 ],
                 "parent": [ 
+                    "dayOffJS",
                     "award"
                 ]
             },
             "國小": {
                 "teacher": [
+                    "dayOffES",
                     "ssEs"
                     
                 ],
                 "student": [
+                    "dayOffES",
                     "ssEs"
                     
                 ],
                 "parent": [
+                    "dayOffES"
                     
                 ]
             }
