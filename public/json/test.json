@@ -1,0 +1,459 @@
+{
+	"features": {
+        "bulletin": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_5.%E5%85%AC%E5%B8%83%E6%AC%84.png",
+            "label": "公佈欄",
+            "featureURI": "https://bulletin.tp.edu.tw/auth/login",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "eCoin": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_4.E%E9%85%B7%E5%B9%A3.png",
+            "label": "E酷幣",
+            "featureURI":"https://ecc.tp.edu.tw/EcoolWeb/COOC/SSOBACK",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "classroom": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_15.%E8%AA%B2%E5%A0%82%E5%B7%A5%E5%85%B7.png",
+            "label": "課堂工具",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "oAuth": {
+            "headerHide": true,
+            "imgURI": "https://educoco.udn.com/image?i=upload/46/2e2b4625b56b14f04eb0e47129d86573382bb6f3.png",
+            "label": "OAuth Dev",
+            "production": false,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "atSchool": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_6.%E5%88%B0%E9%9B%A2%E6%A0%A1.png",
+            "featureURI": "https://beta.cooc.tp.edu.tw/arrive-leave",
+            "label": "到離校",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "ePay": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_7.%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98.png",
+            "featureURI": "https://epay.tp.edu.tw/ePay/SSO/COOC",
+            "label": "電子支付",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "cooc": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_1.%E9%85%B7%E8%AA%B2%E9%9B%B2.png",
+            "label": "酷課雲",
+            "featureURI": "https://beta.cooc.tp.edu.tw/auth/SyncSignInAll",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": true,
+            "isWebApp": true
+        },
+        "tron": {
+            "headerHide": true,
+            "imgURI": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/3e/67/a53e67a1-1b78-b43f-b136-453b6eede1b7/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+            "label": "TronClass",
+            "featureURI": "http://onelink.to/tronclass",
+            "deepLink": "tronclass://open.it",
+            "appleStore": "https://apps.apple.com/tw/app/tronclass-%E6%9A%A2%E8%AA%B2/id973028199",
+            "googlePlay": "https://play.google.com/store/apps/details?id=com.wisdomgarden.trpc",
+            "production": true,"nickname": "",
+            "urlProcessed": false,
+            "openOnBrowser": true,
+            "isWebApp": false
+        },
+        "history": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_2.%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.png",
+            "label": "學習歷程",
+            "featureURI": "https://beta.cooc.tp.edu.tw/auth/SyncSignInAll?next=https%3A%2F%2Fsso.tp.edu.tw%2Foauth2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D364257692326-k0djg7r8e27f3oottmt6io147tna39g5.apps.cooc%26redirect_uri%3Dhttps%253A%252F%252Fe-portfolio.cooc.tp.edu.tw%252Fssoauth.do%26scope%3Dget_user_info%26state%3D364257692326",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": true,
+            "isWebApp": true
+        },
+        "ssEs": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
+            "label": "校務行政",
+            "featureURI": "https://beta.cooc.tp.edu.tw/assets/html/eschool.html",
+            "production": true,"nickname": "校務行政 國小",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "ssJh": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
+            "label": "校務行政",
+            "featureURI": "https://ldap.tp.edu.tw/oauth/authorize?client_id=17&redirect_uri=https%3A%2F%2Fschool.tp.edu.tw%2Fedusso%2Fauth&response_type=code&scope=user%20profile%20idno%20school",
+            "production": true,"nickname": "校務行政 國中",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "ssSh": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
+            "label": "校務行政",
+            "featureURI": "https://ldap.tp.edu.tw/oauth/authorize?client_id=13&redirect_uri=https%3A%2F%2Fsschool.tp.edu.tw%2Fedusso%2Fauth&response_type=code&scope=user%20profile%20idno%20school",
+            "production": true,"nickname": "校務行政 高中",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "ssSTh": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
+            "label": "校務行政",
+            "featureURI": "https://ldap.tp.edu.tw/oauth/authorize?client_id=14&redirect_uri=https://vschool.tp.edu.tw/b2k2017/SSO&response_type=code&scope=idno%20profile%20school",
+            "production": true,"nickname": "校務行政 高職",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "coclsP": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
+            "label": "酷學習",
+            "featureURI": "http://61.220.251.168/cooc/Restful/coocLoginOne/parent/",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "coclsT": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
+            "label": "酷學習",
+            "featureURI": "http://61.220.251.168/cooc/Restful/coocLoginOne/teacher/",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "coclsS": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
+            "label": "酷學習",
+            "featureURI": "http://61.220.251.168/cooc/Restful/coocLoginOne/student/",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "rollCall": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
+            "label": "線上點名",
+            "featureURI": "https://vschool.tp.edu.tw/Mvc_SD62_ForPTS",
+            "production": true,"nickname": "線上點名 高職",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "rollCallJS": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
+            "label": "線上點名",
+            "featureURI": "https://school.tp.edu.tw/edusso/link2",
+            "production": true,"nickname": "線上點名 國中",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "rollCallES": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
+            "label": "線上點名",
+            "featureURI": "https://eschool.tp.edu.tw/UrlAuth.do?type=cooc&return_url=/jsp/web-absent/pub/index.jsp?fn=2",
+            "production": true,"nickname": "線上點名 國小",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "rollCallHS": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
+            "label": "線上點名",
+            "featureURI": "https://sschool.tp.edu.tw/edusso/link2",
+            "production": true,"nickname": "線上點名 高中",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "dayOffES": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
+            "label": "線上請假",
+            "featureURI": "https://eschool.tp.edu.tw/UrlAuth.do?type=cooc&return_url=/jsp/web-absent/pub/index.jsp?fn=1",
+            "production": true,"nickname": "線上請假 國小",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "dayOff": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
+            "label": "線上請假",
+            "featureURI": "https://vschool.tp.edu.tw/Mvc_SD22",
+            "production": true,"nickname": "線上請假 高職",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "dayOffJS": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
+            "label": "線上請假",
+            "featureURI": "https://school.tp.edu.tw/edusso/link1",
+            "production": true,"nickname": "線上請假 國中",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "dayOffHS": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
+            "label": "線上請假",
+            "featureURI": "https://sschool.tp.edu.tw/edusso/link1",
+            "production": true,"nickname": "線上請假 高中",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "award": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/award.png",
+            "label": "獎懲查詢",
+            "featureURI": "https://beta.cooc.tp.edu.tw/merit",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "absence": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/absence.png",
+            "label": "缺曠查詢",
+            "featureURI": "https://beta.cooc.tp.edu.tw/absence",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        }
+    },
+    "devMode": {
+    	"basicRoleConfig":{
+    		"teacher": [
+                "bulletin",
+                "eCoin",
+                "classroom",
+                "cooc",
+                "tron",
+                "coclsT",
+                "oAuth"
+            ],
+            "student": [
+                "bulletin", 
+                "eCoin",
+                "cooc",
+                "tron",
+                "coclsS",
+                "oAuth"
+            ],
+            "parent": [
+                "bulletin",
+                "atSchool",
+                "ePay",
+                "cooc",
+                "coclsP",
+                "oAuth"
+            ]
+    	},
+    	"schoolTypeConfig":{
+
+    		"高中": {
+                "teacher": [
+                    "history",
+                    "ssSh", 
+                    "dayOffHS",
+                    "rollCallHS"
+                ],
+                "student": [
+                    "ePay",
+                    "history",
+                    "ssSh",
+                    "dayOffHS",
+                    "rollCallHS"
+                ],
+                "parent": [
+                    "dayOffHS",
+                    "rollCallHS"
+                ]
+            },
+            "高職": {
+                "teacher": [
+                    "history",
+                    "ssSTh",
+                    "dayOff",
+                    "rollCall"
+                ],
+                "student": [
+                    "ePay",
+                    "history",
+                    "ssSTh",
+                    "dayOff",
+                    "rollCall"
+                ],
+                "parent": [
+                	"dayOff",
+                    "rollCall"
+                ]
+            },
+            "國中": {
+                "teacher": [
+                    "ssJh",
+                    "dayOffJS",
+                    "rollCallJS"
+                ],
+                "student": [
+                    "ssJh",
+                    "dayOffJS",
+                    "rollCallJS" 
+                ],
+                "parent": [
+                    "dayOffJS",
+                    "rollCallJS"
+                ]
+            },
+            "國小": {
+                "teacher": [
+                    "ssEs", 
+                    "dayOffES",
+                    "rollCallES"
+                ],
+                "student": [
+                    "ssEs",
+                    "dayOffES", 
+                    "rollCallES"
+                ],
+                "parent": [
+                	"dayOffES",
+                    "rollCallES"
+                ]
+            }
+
+    	}
+
+    },
+    "userMode": {
+
+
+    	"basicRoleConfig":{
+    		"teacher": [
+                "bulletin",
+                "eCoin",
+                "classroom",
+                "cooc",
+                "tron",
+                "coclsT"
+            ],
+            "student": [
+                "bulletin", 
+                "eCoin",
+                "cooc",
+                "tron",
+                "coclsS",
+                "absence"
+            ],
+            "parent": [
+                "bulletin",
+                "atSchool",
+                "ePay",
+                "cooc",
+                "coclsP",
+                "absence"
+            ]
+    	},
+    	"schoolTypeConfig":{
+
+    		"高中": {
+                "teacher": [
+                    "history",
+                    "ssSh"  
+                ],
+                "student": [
+                    "ePay",
+                    "history",
+                    "ssSh",
+                    "award"
+                ],
+                "parent": [
+                    "award"
+                ]
+            },
+            "高職": {
+                "teacher": [
+                    "history",
+                    "ssSTh"
+                ],
+                "student": [
+                    "ePay",
+                    "history",
+                    "ssSTh",
+                    "award"
+                ],
+                "parent": [
+                    "award"
+                ]
+            },
+            "國中": {
+                "teacher": [
+                    "ssJh"
+                    
+                ],
+                "student": [
+                    "ssJh",
+                    "award" 
+                ],
+                "parent": [ 
+                    "award"
+                ]
+            },
+            "國小": {
+                "teacher": [
+                    "ssEs"
+                    
+                ],
+                "student": [
+                    "ssEs"
+                    
+                ],
+                "parent": [
+                    
+                ]
+            }
+
+    	}
+
+    }
+}
