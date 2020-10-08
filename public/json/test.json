@@ -84,7 +84,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_2.%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.png",
             "label": "學習歷程",
-            "featureURI": "https://beta.cooc.tp.edu.tw/auth/SyncSignInAll?next=https%3A%2F%2Fsso.tp.edu.tw%2Foauth2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D364257692326-k0djg7r8e27f3oottmt6io147tna39g5.apps.cooc%26redirect_uri%3Dhttps%253A%252F%252Fe-portfolio.cooc.tp.edu.tw%252Fssoauth.do%26scope%3Dget_user_info%26state%3D364257692326",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://e-portfolio.cooc.tp.edu.tw/ldap/link",
             "production": true,"nickname": "",
             "urlProcessed": true,
             "openOnBrowser": true,
@@ -170,6 +170,16 @@
             "openOnBrowser": false,
             "isWebApp": true 
         },
+        "rollCall_test": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
+            "label": "線上點名",
+            "featureURI": "https://infobridge.com.tw/Mvc_SD62_ForPTS",
+            "production": true,"nickname": "線上點名 高職 test",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
         "rollCallJS": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
@@ -216,6 +226,16 @@
             "label": "線上請假",
             "featureURI": "https://vschool.tp.edu.tw/Mvc_SD22",
             "production": true,"nickname": "線上請假 高職",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true 
+        },
+        "dayOff_test": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
+            "label": "線上請假",
+            "featureURI": "https://infobridge.com.tw/Mvc_SD22",
+            "production": true,"nickname": "線上請假 高職 test",
             "urlProcessed": true,
             "openOnBrowser": false,
             "isWebApp": true 
@@ -294,7 +314,7 @@
                 "teacher": [
                     "history",
                     "ssSh", 
-                    "dayOffHS",
+                    
                     "rollCallHS"
                 ],
                 "student": [
@@ -313,25 +333,25 @@
                 "teacher": [
                     "history",
                     "ssSTh",
-                    "dayOff",
-                    "rollCall"
+                    
+                    "rollCall_test"
                 ],
                 "student": [
                     "ePay",
                     "history",
                     "ssSTh",
-                    "dayOff",
-                    "rollCall"
+                    "dayOff_test",
+                    "rollCall_test"
                 ],
                 "parent": [
-                	"dayOff",
-                    "rollCall"
+                	"dayOff_test",
+                    "rollCall_test"
                 ]
             },
             "國中": {
                 "teacher": [
                     "ssJh",
-                    "dayOffJS",
+                    
                     "rollCallJS"
                 ],
                 "student": [
@@ -391,7 +411,7 @@
     		"高中": {
                 "teacher": [
                     "history",
-                    "dayOffHS",
+                    
                     "ssSh"  
                 ],
                 "student": [
@@ -409,7 +429,7 @@
             "高職": {
                 "teacher": [
                     "history",
-                    "dayOff",
+                    
                     "ssSTh"
                 ],
                 "student": [
@@ -426,7 +446,7 @@
             },
             "國中": {
                 "teacher": [
-                    "dayOffJS",
+                    
                     "ssJh"
                     
                 ],
