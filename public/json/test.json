@@ -60,7 +60,7 @@
         "cooc": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_1.%E9%85%B7%E8%AA%B2%E9%9B%B2.png",
-            "label": "酷 課雲",
+            "label": "酷課雲",
             "featureURI": "https://beta.cooc.tp.edu.tw/auth/SyncSignInAll",
             "production": true,"nickname": "",
             "urlProcessed": true,
