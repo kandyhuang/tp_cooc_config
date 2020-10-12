@@ -460,8 +460,7 @@
                 "cooc",
                 "tron",
                 "coclsT",
-                "oAuth",
-                "dayOffES_test"
+                "oAuth"
             ],
             "student": [
                 "bulletin",
@@ -470,7 +469,6 @@
                 "tron",
                 "coclsS",
                 "oAuth",
-                "dayOffES_test",
                 "score"
             ],
             "parent": [
@@ -480,7 +478,6 @@
                 "cooc",
                 "oAuth",
                 "ePay_test",
-                "dayOffES_test",
                 "score"
             ]
         },
@@ -543,16 +540,17 @@
             "國小": {
                 "teacher": [
                     "ssEs_test",
-                    "dayOffES",
+                    "dayOffES_test",
                     "rollCallES_test"
+
                 ],
                 "student": [
                     "ssEs_test",
-                    "dayOffES",
+                    "dayOffES_test",
                     "rollCallES_test"
                 ],
                 "parent": [
-                    "dayOffES",
+                    "dayOffES_test",
                     "rollCallES_test"
                 ]
             }
