@@ -57,6 +57,16 @@
             "openOnBrowser": false,
             "isWebApp": true
         },
+        "ePay_test": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_7.%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98.png",
+            "featureURI": "https://epay.tp.edu.tw/ePay/SSO/SSOParsentLoginPage",
+            "label": "T電子支付",
+            "production": true,"nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
         "cooc": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_1.%E9%85%B7%E8%AA%B2%E9%9B%B2.png",
@@ -306,6 +316,7 @@
                 "ePay",
                 "cooc",
                 "oAuth"
+                "ePay_test"
             ]
     	},
     	"schoolTypeConfig":{
@@ -322,7 +333,8 @@
                     "history",
                     "ssSh",
                     "dayOffHS",
-                    "rollCallHS"
+                    "rollCallHS",
+                    "ePay_test"
                 ],
                 "parent": [
                     "dayOffHS",
@@ -341,7 +353,8 @@
                     "history",
                     "ssSTh",
                     "dayOff_test",
-                    "rollCall_test"
+                    "rollCall_test",
+                    "ePay_test"
                 ],
                 "parent": [
                 	"dayOff_test",
