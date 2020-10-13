@@ -278,7 +278,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
             "label": "國中t點名",
-            "featureURI": "http://59.124.174.43/ecampus/edusso/link2",
+            "featureURI": "http://59.124.174.43/portfolio/edusso/link2",
             "production": true,
             "nickname": "線上點名 國中",
             "urlProcessed": true,
@@ -388,7 +388,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
             "label": "國中t請假",
-            "featureURI": "http://59.124.174.43/ecampus/edusso/link1",
+            "featureURI": "http://59.124.174.43/portfolio/edusso/link1",
             "production": true,
             "nickname": "線上請假 國中",
             "urlProcessed": true,
@@ -474,7 +474,6 @@
             "parent": [
                 "bulletin",
                 "atSchool",
-                "ePay",
                 "cooc",
                 "oAuth",
                 "ePay_test",
@@ -489,7 +488,6 @@
                     "rollCallHS_test"
                 ],
                 "student": [
-                    "ePay",
                     "history",
                     "ssSh_test",
                     "dayOffHS_test",
@@ -508,7 +506,6 @@
                     "rollCall_test"
                 ],
                 "student": [
-                    "ePay",
                     "history",
                     "ssSTh_test",
                     "dayOff_test",
@@ -527,12 +524,10 @@
                 ],
                 "student": [
                     "ssJh_test",
-                    "dayOffJS",
                     "rollCallJS_test",
                     "dayOffJS_test"
                 ],
                 "parent": [
-                    "dayOffJS",
                     "rollCallJS_test",
                     "dayOffJS_test"
                 ]
