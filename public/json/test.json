@@ -333,7 +333,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
             "label": "線上請假",
-            "featureURI": "https://eschool.tp.edu.tw",
+            "featureURI": "https://eschool.tp.edu.tw/UrlAuth.do?type=cooc&return_url=/jsp/web-absent/pub/index.jsp?fn=1",
             "production": true,
             "nickname": "線上請假 國小",
             "urlProcessed": true,
@@ -344,7 +344,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
             "label": "國小t請假",
-            "featureURI": "https://tptest.schoolsoft.com.tw",
+            "featureURI": "https://tptest.schoolsoft.com.tw/UrlAuth.do?type=cooc&return_url=/jsp/web-absent/pub/index.jsp?fn=1",
             "production": true,
             "nickname": "線上請假 國小",
             "urlProcessed": true,
@@ -459,7 +459,6 @@
                 "classroom",
                 "cooc",
                 "tron",
-                "coclsT",
                 "oAuth"
             ],
             "student": [
@@ -467,7 +466,6 @@
                 "eCoin_test",
                 "cooc",
                 "tron",
-                "coclsS",
                 "oAuth",
                 "score"
             ],
@@ -556,12 +554,14 @@
             "teacher": [
                 "bulletin",
                 "classroom",
-                "cooc"
+                "cooc",
+                "coclsT"
             ],
             "student": [
                 "bulletin",
                 "cooc",
-                "absence"
+                "absence",
+                "coclsS"
             ],
             "parent": [
                 "bulletin",
