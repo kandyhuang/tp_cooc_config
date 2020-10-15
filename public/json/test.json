@@ -201,7 +201,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
             "label": "職t校務行政",
-            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://vschool.tp.edu.tw/b2k2017/SSO",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://beta.cooc.tp.edu.tw/assets/html/tp_vschool.html",
             "production": true,
             "nickname": "校務行政 高職",
             "urlProcessed": true,
