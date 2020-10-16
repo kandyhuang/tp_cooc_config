@@ -15,22 +15,22 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_4.E%E9%85%B7%E5%B9%A3.png",
             "label": "E酷幣",
-            "featureURI": "https://ecc.tp.edu.tw/EcoolWeb/COOC/SSOBACK",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://ecc.tp.edu.tw/EcoolWeb/SSO",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
-            "openOnBrowser": false,
+            "openOnBrowser": true,
             "isWebApp": true
         },
         "eCoin_test": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_4.E%E9%85%B7%E5%B9%A3.png",
             "label": "tE酷幣",
-            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://ecc.tp.edu.tw/EcoolWeb/SSO/SSOLoginPage",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://ecc.tp.edu.tw/EcoolWeb/SSO",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
-            "openOnBrowser": false,
+            "openOnBrowser": true,
             "isWebApp": true
         },
         "classroom": {
@@ -278,7 +278,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
             "label": "國中t點名",
-            "featureURI": "http://59.124.174.43/portfolio/edusso/link2",
+            "featureURI": "http://59.124.174.43/portfolio/educooc/link2",
             "production": true,
             "nickname": "線上點名 國中",
             "urlProcessed": true,
@@ -322,7 +322,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
             "label": "高中t點名",
-            "featureURI": "http://59.124.174.43/ecampus/edusso/link2",
+            "featureURI": "http://59.124.174.43/ecampus/educooc/link2",
             "production": true,
             "nickname": "線上點名 高中",
             "urlProcessed": true,
@@ -388,7 +388,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
             "label": "國中t請假",
-            "featureURI": "http://59.124.174.43/portfolio/edusso/link1",
+            "featureURI": "http://59.124.174.43/portfolio/educooc/link1",
             "production": true,
             "nickname": "線上請假 國中",
             "urlProcessed": true,
@@ -410,7 +410,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
             "label": "高中t請假",
-            "featureURI": "http://59.124.174.43/ecampus/edusso/link1",
+            "featureURI": "http://59.124.174.43/ecampus/educooc/link1",
             "production": true,
             "nickname": "線上請假 高中",
             "urlProcessed": true,
@@ -455,7 +455,6 @@
         "basicRoleConfig": {
             "teacher": [
                 "bulletin",
-                "eCoin_test",
                 "classroom",
                 "cooc",
                 "tron",
@@ -463,7 +462,6 @@
             ],
             "student": [
                 "bulletin",
-                "eCoin_test",
                 "cooc",
                 "tron",
                 "oAuth",
@@ -548,12 +546,14 @@
                 "bulletin",
                 "classroom",
                 "cooc",
+                "eCoin",
                 "coclsT"
             ],
             "student": [
                 "bulletin",
                 "cooc",
                 "absence",
+                "eCoin",
                 "coclsS"
             ],
             "parent": [
