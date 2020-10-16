@@ -488,7 +488,7 @@
                     "history",
                     "ssSh_test",
                     "dayOffHS_test",
-                    "rollCallHS_test",
+                    "rollCallHS_test"
                 ],
                 "parent": [
                     "dayOffHS_test",
