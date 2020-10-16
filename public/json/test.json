@@ -503,7 +503,7 @@
                 "student": [
                     "history",
                     "dayOff_test",
-                    "rollCall_test",
+                    "rollCall_test"
                 ],
                 "parent": [
                     "dayOff_test",
