@@ -550,12 +550,14 @@
             "國小": {
                 "teacher": [
                     "dayOffES_test",
-                    "rollCallES_test"
+                    "rollCallES_test",
+                    "eCoin_test"
 
                 ],
                 "student": [
                     "dayOffES_test",
-                    "rollCallES_test"
+                    "rollCallES_test",
+                    "eCoin_test"
                 ],
                 "parent": [
                     "dayOffES_test",
