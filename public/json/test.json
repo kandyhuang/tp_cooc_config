@@ -15,7 +15,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_4.E%E9%85%B7%E5%B9%A3.png",
             "label": "E酷幣",
-            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://beta.cooc.tp.edu.tw/assets/html/tp_ecc.html",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://ecc.tp.edu.tw/EcoolWeb/SSO",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
