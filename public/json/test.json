@@ -568,7 +568,8 @@
                 "bulletin",
                 "cooc",
                 "absence",
-                "coclsS"
+                "coclsS",
+                "score"
             ],
             "parent": [
                 "bulletin",
