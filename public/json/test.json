@@ -139,7 +139,7 @@
             "production": true,
             "nickname": "校務行政 國小",
             "urlProcessed": true,
-            "openOnBrowser": false,
+            "openOnBrowser": true,
             "isWebApp": true
         },
         "ssJh": {
@@ -150,7 +150,7 @@
             "production": true,
             "nickname": "校務行政 國中",
             "urlProcessed": true,
-            "openOnBrowser": false,
+            "openOnBrowser": true,
             "isWebApp": true
         },
         "ssJh_test": {
@@ -161,7 +161,7 @@
             "production": true,
             "nickname": "校務行政 國中",
             "urlProcessed": true,
-            "openOnBrowser": false,
+            "openOnBrowser": true,
             "isWebApp": true
         },
         "ssSh": {
@@ -172,7 +172,7 @@
             "production": true,
             "nickname": "校務行政 高中",
             "urlProcessed": true,
-            "openOnBrowser": false,
+            "openOnBrowser": true,
             "isWebApp": true
         },
         "ssSh_test": {
@@ -183,7 +183,7 @@
             "production": true,
             "nickname": "校務行政 高中",
             "urlProcessed": true,
-            "openOnBrowser": false,
+            "openOnBrowser": true,
             "isWebApp": true
         },
         "ssSTh": {
@@ -205,7 +205,7 @@
             "production": true,
             "nickname": "校務行政 高職",
             "urlProcessed": true,
-            "openOnBrowser": false,
+            "openOnBrowser": true,
             "isWebApp": true
         },
         "coclsP": {
@@ -289,7 +289,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
             "label": "線上點名",
-            "featureURI": "https://school.tp.edu.tw/edusso/link2",
+            "featureURI": "https://school.tp.edu.tw/educooc/link2",
             "production": true,
             "nickname": "線上點名 國中",
             "urlProcessed": true,
@@ -333,7 +333,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
             "label": "線上點名",
-            "featureURI": "https://sschool.tp.edu.tw/edusso/link2",
+            "featureURI": "https://sschool.tp.edu.tw/educooc/link2",
             "production": true,
             "nickname": "線上點名 高中",
             "urlProcessed": true,
@@ -592,64 +592,75 @@
             "高中": {
                 "teacher": [
                     "history",
-                    "ssSh"
+                    "ssSh",
+                    "rollCallHS"
                 ],
                 "student": [
                     "ePay",
                     "history",
                     "dayOffHS",
                     "ssSh",
-                    "award"
+                    "award",
+                    "rollCallHS"
                 ],
                 "parent": [
                     "dayOffHS",
-                    "award"
+                    "award",
+                    "rollCallHS"
                 ]
             },
             "高職": {
                 "teacher": [
                     "history",
-                    "ssSTh"
+                    "ssSTh",
+                    "rollCall"
                 ],
                 "student": [
                     "ePay",
                     "history",
                     "dayOff",
                     "ssSTh",
-                    "award"
+                    "award",
+                    "rollCall"
                 ],
                 "parent": [
                     "dayOff",
-                    "award"
+                    "award",
+                    "rollCall"
                 ]
             },
             "國中": {
                 "teacher": [
-                    "ssJh"
+                    "ssJh",
+                    "rollCallJS"
                 ],
                 "student": [
                     "dayOffJS",
                     "ssJh",
-                    "award"
+                    "award",
+                    "rollCallJS"
                 ],
                 "parent": [
                     "dayOffJS",
-                    "award"
+                    "award",
+                    "rollCallJS"
                 ]
             },
             "國小": {
                 "teacher": [
                     "dayOffES",
                     "ssEs",
-                    "eCoin"
+                    "eCoin",
+                    "rollCallES"
                 ],
                 "student": [
                     "dayOffES",
-                    "ssEs",
-                    "eCoin"
+                    "eCoin",
+                    "rollCallES"
                 ],
                 "parent": [
-                    "dayOffES"
+                    "dayOffES",
+                    "rollCallES"
                 ]
             }
         }
