@@ -15,7 +15,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_4.E%E9%85%B7%E5%B9%A3.png",
             "label": "E酷幣",
-            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://ecc.tp.edu.tw/EcoolWeb/SSO",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://beta.cooc.tp.edu.tw/assets/html/tp_ecc.html",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
@@ -223,7 +223,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
             "label": "酷學習",
-            "featureURI": "http://61.220.251.168/cooc/Restful/coocLoginOne/teacher/",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=http://61.220.251.168/cooc/Restful/coocLoginOne/teacher/",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
@@ -245,7 +245,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
             "label": "酷學習",
-            "featureURI": "http://61.220.251.168/cooc/Restful/coocLoginOne/student/",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=http://61.220.251.168/cooc/Restful/coocLoginOne/student/",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
@@ -480,23 +480,19 @@
                 "classroom",
                 "cooc",
                 "tron",
-                "oAuth",
-                "coclsT_test"
+                "oAuth"
             ],
             "student": [
                 "bulletin",
                 "cooc",
                 "tron",
-                "oAuth",
-                "score",
-                "coclsS_test"
+                "oAuth"
             ],
             "parent": [
                 "bulletin",
                 "atSchool",
                 "cooc",
-                "oAuth",
-                "score"
+                "oAuth"
             ]
         },
         "schoolTypeConfig": {
@@ -513,8 +509,7 @@
                     "rollCallHS_test"
                 ],
                 "parent": [
-                    "dayOffHS_test",
-                    "rollCallHS_test"
+                    "dayOffHS_test"
                 ]
             },
             "高職": {
@@ -528,8 +523,7 @@
                     "rollCall_test"
                 ],
                 "parent": [
-                    "dayOff_test",
-                    "rollCall_test"
+                    "dayOff_test"
                 ]
             },
             "國中": {
@@ -543,25 +537,21 @@
                     "dayOffJS_test"
                 ],
                 "parent": [
-                    "rollCallJS_test",
                     "dayOffJS_test"
                 ]
             },
             "國小": {
                 "teacher": [
                     "dayOffES_test",
-                    "rollCallES_test",
-                    "eCoin_test"
+                    "rollCallES_test"
 
                 ],
                 "student": [
                     "dayOffES_test",
-                    "rollCallES_test",
-                    "eCoin_test"
+                    "rollCallES_test"
                 ],
                 "parent": [
-                    "dayOffES_test",
-                    "rollCallES_test"
+                    "dayOffES_test"
                 ]
             }
         }
@@ -585,7 +575,8 @@
                 "atSchool",
                 "ePay",
                 "cooc",
-                "absence"
+                "absence",
+                "score"
             ]
         },
         "schoolTypeConfig": {
@@ -606,7 +597,7 @@
                 "parent": [
                     "dayOffHS",
                     "award",
-                    "rollCallHS"
+                    "ssSh"
                 ]
             },
             "高職": {
@@ -626,7 +617,7 @@
                 "parent": [
                     "dayOff",
                     "award",
-                    "rollCall"
+                    "ssSTh"
                 ]
             },
             "國中": {
@@ -643,7 +634,7 @@
                 "parent": [
                     "dayOffJS",
                     "award",
-                    "rollCallJS"
+                    "ssJh"
                 ]
             },
             "國小": {
@@ -659,8 +650,7 @@
                     "rollCallES"
                 ],
                 "parent": [
-                    "dayOffES",
-                    "rollCallES"
+                    "dayOffES"
                 ]
             }
         }
