@@ -107,7 +107,8 @@
             "nickname": "",
             "urlProcessed": false,
             "openOnBrowser": true,
-            "isWebApp": false
+            "isWebApp": false,
+            "isUniversalLink": false
         },
         "history": {
             "headerHide": true,
@@ -515,15 +516,18 @@
             "高職": {
                 "teacher": [
                     "history",
-                    "rollCall_test"
+                    "rollCall_test",
+                    "ssSTh_test"
                 ],
                 "student": [
                     "history",
                     "dayOff_test",
-                    "rollCall_test"
+                    "rollCall_test",
+                    "ssSTh_test"
                 ],
                 "parent": [
-                    "dayOff_test"
+                    "dayOff_test",
+                    "ssSTh_test"
                 ]
             },
             "國中": {
