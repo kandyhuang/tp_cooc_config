@@ -98,7 +98,7 @@
         "tron": {
             "headerHide": true,
             "imgURI": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/3e/67/a53e67a1-1b78-b43f-b136-453b6eede1b7/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
-            "label": "TronClass",
+            "label": "網路學校",
             "featureURI": "http://onelink.to/tronclass",
             "deepLink": "tronclass://open.it",
             "appleStore": "https://apps.apple.com/tw/app/tronclass-%E6%9A%A2%E8%AA%B2/id973028199",
