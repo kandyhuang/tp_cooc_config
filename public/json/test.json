@@ -224,7 +224,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
             "label": "酷學習",
-            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=http://61.220.251.168/cooc/Restful/coocLoginOne/teacher/",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://coocmaster.tp.edu.tw/Restful/coocLoginOne/teacher/",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
@@ -246,7 +246,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
             "label": "酷學習",
-            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=http://61.220.251.168/cooc/Restful/coocLoginOne/student/",
+            "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://coocmaster.tp.edu.tw/Restful/coocLoginOne/student/",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
@@ -572,7 +572,8 @@
                 "bulletin",
                 "cooc",
                 "absence",
-                "score"
+                "score",
+                "coclsS"
             ],
             "parent": [
                 "bulletin",
