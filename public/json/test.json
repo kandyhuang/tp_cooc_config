@@ -1,4 +1,8 @@
 {
+    "mapping": {
+		"公佈欄系統": "公佈欄",
+		"羿均那裡的名字": "app裡面的名字"
+	},
     "features": {
         "bulletin": {
             "headerHide": true,
