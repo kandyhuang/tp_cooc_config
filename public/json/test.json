@@ -607,7 +607,8 @@
                 "parent": [
                     "dayOffHS",
                     "award",
-                    "ssSh"
+                    "ssSh",
+                    "history"
                 ]
             },
             "高職": {
@@ -627,7 +628,8 @@
                 "parent": [
                     "dayOff",
                     "award",
-                    "ssSTh"
+                    "ssSTh",
+                    "history"
                 ]
             },
             "國中": {
