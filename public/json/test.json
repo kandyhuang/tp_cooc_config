@@ -437,7 +437,7 @@
         "dayOffHS_test": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
-            "label": "高中t請假",
+            "label": "高中請假請假",
             "featureURI": "http://59.124.174.43/ecampus/educooc/link1",
             "production": true,
             "nickname": "線上請假 高中",
