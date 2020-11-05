@@ -568,101 +568,171 @@
     "userMode": {
         "basicRoleConfig": {
             "teacher": [
-                "bulletin",
-                "classroom",
-                "cooc",
-                "coclsT"
+                
+                
+                
+                
             ],
             "student": [
-                "bulletin",
-                "cooc",
-                "absence",
-                "score",
-                "coclsS"
+                
+                
+   
+                
             ],
             "parent": [
-                "bulletin",
-                "atSchool",
-                "ePay",
-                "cooc",
-                "absence",
-                "score"
+                
+                
+                
+        
             ]
         },
         "schoolTypeConfig": {
             "高中": {
                 "teacher": [
-                    "history",
+                    "rollCallHS",
+                    "bulletin",
+                    "classroom",
                     "ssSh",
-                    "rollCallHS"
+                    "cooc",
+                    "history",
+                    "coclsT"
+                    
+                    
                 ],
                 "student": [
-                    "ePay",
-                    "history",
-                    "dayOffHS",
-                    "ssSh",
+                    "absence",
                     "award",
-                    "rollCallHS"
+                    "score",
+                    "dayOffHS",
+                    "rollCallHS",
+                    "ePay",
+                    "bulletin",
+                    "ssSh",
+                    "cooc",
+                    "history",
+                    "coclsS"
+                    
+                    
+
+                    
                 ],
                 "parent": [
-                    "dayOffHS",
+                    "absence",
                     "award",
+                    "score",
+                    "dayOffHS",
+                    "ePay",
+                    "bulletin",
+                    "atSchool",
                     "ssSh",
+                    "cooc",
                     "history"
                 ]
             },
             "高職": {
                 "teacher": [
-                    "history",
+                    "rollCall",
+                    "bulletin",
+                    "classroom",
                     "ssSTh",
-                    "rollCall"
+                    "cooc",
+                    "history",
+                    "coclsT"
+                    
+                    
                 ],
                 "student": [
-                    "ePay",
-                    "history",
-                    "dayOff",
-                    "ssSTh",
+                    "absence",
                     "award",
-                    "rollCall"
+                    "score",
+                    "dayOff",
+                    "rollCall",
+                    "ePay",
+                    "bulletin",
+                    "ssSTh",
+                    "cooc",
+                    "history",
+                    "coclsS"
+
                 ],
                 "parent": [
-                    "dayOff",
+                    "absence",
                     "award",
+                    "score",
+                    "dayOff",
+                    "ePay",
+                    "bulletin",
+                    "atSchool",
                     "ssSTh",
+                    "cooc",
                     "history"
                 ]
             },
             "國中": {
                 "teacher": [
+                    "rollCallJS",
+                    "bulletin",
+                    "classroom",
                     "ssJh",
-                    "rollCallJS"
+                    "cooc",
+                    "coclsT"
+                    
                 ],
                 "student": [
-                    "dayOffJS",
-                    "ssJh",
+                    "absence",
                     "award",
-                    "rollCallJS"
+                    "score",
+                    "dayOffJS",
+                    "rollCallJS",
+                    "bulletin",
+                    "ssJh",
+                    "cooc",
+                    "coclsS"
+
                 ],
                 "parent": [
-                    "dayOffJS",
+                    "absence",
                     "award",
-                    "ssJh"
+                    "score",
+                    "dayOffJS",
+                    "ePay",
+                    "bulletin",
+                    "atSchool",
+                    "ssJh",
+                    "cooc"
                 ]
             },
             "國小": {
                 "teacher": [
                     "dayOffES",
+                    "rollCallES",
+                    "bulletin",
+                    "classroom",
                     "ssEs",
-                    "eCoin",
-                    "rollCallES"
+                    "cooc",
+                    "coclsT",
+                    "eCoin"
+                    
                 ],
                 "student": [
+                    "absence",
+                    "score",
                     "dayOffES",
-                    "eCoin",
-                    "rollCallES"
+                    "rollCallES",
+                    "bulletin",
+                    "cooc",
+                    "coclsS",
+                    "eCoin"
+                    
                 ],
                 "parent": [
-                    "dayOffES"
+                    "absence",
+                    "score",
+                    "dayOffES",
+                    "ePay",
+                    "bulletin",
+                    "atSchool",
+                    "cooc"
                 ]
             }
         }
