@@ -568,9 +568,9 @@
     "userMode": {
         "basicRoleConfig": {
             "teacher": [
-                
-                
-                
+                "bulletin",        
+                "cooc",
+                "coclsT"
                 
             ],
             "student": [
@@ -590,12 +590,10 @@
             "高中": {
                 "teacher": [
                     "rollCallHS",
-                    "bulletin",
                     "classroom",
                     "ssSh",
-                    "cooc",
-                    "history",
-                    "coclsT"
+                    "history"
+                    
                     
                     
                 ],
@@ -632,12 +630,9 @@
             "高職": {
                 "teacher": [
                     "rollCall",
-                    "bulletin",
                     "classroom",
                     "ssSTh",
-                    "cooc",
-                    "history",
-                    "coclsT"
+                    "history"
                     
                     
                 ],
@@ -671,11 +666,8 @@
             "國中": {
                 "teacher": [
                     "rollCallJS",
-                    "bulletin",
                     "classroom",
-                    "ssJh",
-                    "cooc",
-                    "coclsT"
+                    "ssJh"
                     
                 ],
                 "student": [
@@ -706,11 +698,8 @@
                 "teacher": [
                     "dayOffES",
                     "rollCallES",
-                    "bulletin",
                     "classroom",
                     "ssEs",
-                    "cooc",
-                    "coclsT",
                     "eCoin"
                     
                 ],
