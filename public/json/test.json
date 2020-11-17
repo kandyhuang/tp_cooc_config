@@ -477,6 +477,61 @@
             "urlProcessed": true,
             "openOnBrowser": false,
             "isWebApp": true
+        },
+        "surveyP": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/survey.png",
+            "label": "調查表回條P",
+            "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Parent",
+            "production": true,
+            "nickname": "調查表回條家長",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "surveyT": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/survey.png",
+            "label": "調查表回條T",
+            "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Teacher",
+            "production": true,
+            "nickname": "調查表回條老師",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "surveyS": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/survey.png",
+            "label": "調查表回條S",
+            "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Student",
+            "production": true,
+            "nickname": "調查表回條學生",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "club": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/club.png",
+            "label": "活動報名",
+            "featureURI": " http://163.21.135.55/educooc/tpac",
+            "production": true,
+            "nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
+        },
+        "contact": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/contact.png",
+            "label": "電子聯絡簿",
+            "featureURI": "http://59.124.174.34/tpcontact/educooc/tpcnt",
+            "production": true,
+            "nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": false,
+            "isWebApp": true
         }
     },
     "devMode": {
@@ -484,21 +539,50 @@
             "teacher": [
                 "bulletin",
                 "classroom",
+                "eCoin",
                 "cooc",
-                "tron",
+                "atSchool",
+                "surveyT",
+                "club",
+                "contact",
+                "ePay",
+                "history",
+                "ssEs",
+                "ssJh",
+                "ssSh",
+                "ssSTh",
+                "coclsT",
+                "rollCall",
+                "rollCallJS",
+                "rollCallES",
+                "rollCallHS",
+                "dayOffES",
+                "dayOff",
+                "dayOffJS",
+                "dayOffHS",
+                "award",
+                "absence",
+                "score",
                 "oAuth"
+                
+
             ],
             "student": [
                 "bulletin",
                 "cooc",
                 "tron",
-                "oAuth"
+                "oAuth",
+                "surveyS",
+                "club"
             ],
             "parent": [
                 "bulletin",
                 "atSchool",
                 "cooc",
-                "oAuth"
+                "oAuth",
+                "surveyP",
+                "club",
+                "contact"
             ]
         },
         "schoolTypeConfig": {
