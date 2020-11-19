@@ -3,11 +3,13 @@
             "prompt": "恭喜你, 有新的更新可以下載!",
             "ios": {
                 "version": "1.0",
-                "build": "69"
+                "build": "69",
+                "link": "https://beta.itunes.apple.com"
             },
             "android": {
                 "version": "1.0.3",
-                "build": "3"
+                "build": "3",
+                "link": "https://play.google.com/store/apps/details?id=edu.tp_cooc_mobile_react&hl=en_US&gl=US"
             }
         },
     "mapping": {
