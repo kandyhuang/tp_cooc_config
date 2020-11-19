@@ -1,4 +1,15 @@
 {
+    "forceUpdate": {
+            "prompt": "恭喜你, 有新的更新可以下載!",
+            "ios": {
+                "version": "1.0",
+                "build": "69"
+            },
+            "android": {
+                "version": "1.0.3",
+                "build": "3"
+            }
+        },
     "mapping": {
         "公佈欄系統": "公佈欄",
         "到離校系統": "到離校",
