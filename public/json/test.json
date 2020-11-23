@@ -1,9 +1,9 @@
 {
     "forceUpdate": {
-            "prompt": "(系統測試)恭喜你, 有新的更新可以下載!",
+            "prompt": "恭喜你, 有新的更新可以下載!",
             "ios": {
                 "version": "1.0",
-                "build": "70",
+                "build": "69",
                 "link": "https://beta.itunes.apple.com"
             },
             "android": {
