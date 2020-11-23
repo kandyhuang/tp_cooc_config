@@ -1,9 +1,9 @@
 {
     "forceUpdate": {
-            "prompt": "恭喜你, 有新的更新可以下載!",
+            "prompt": "(系統測試)恭喜你, 有新的更新可以下載!",
             "ios": {
                 "version": "1.0",
-                "build": "69",
+                "build": "70",
                 "link": "https://beta.itunes.apple.com"
             },
             "android": {
@@ -492,7 +492,7 @@
             "isWebApp": true
         },
         "surveyP": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/survey.png",
             "label": "調查表回條P",
             "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Parent",
