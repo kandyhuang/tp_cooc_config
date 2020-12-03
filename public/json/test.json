@@ -84,7 +84,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_7.%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98.png",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://epay.tp.edu.tw/ePay/SSO/SSOParsentLoginPage",
-            "label": "電子支付",
+            "label": "校園繳費系統",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
@@ -95,7 +95,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_7.%E9%9B%BB%E5%AD%90%E6%94%AF%E4%BB%98.png",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://epay.tp.edu.tw/ePay/SSO/SSOParsentLoginPage",
-            "label": "T電子支付",
+            "label": "T校園繳費系統",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
@@ -373,7 +373,7 @@
         "dayOffES": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
-            "label": "線上請假",
+            "label": "學生請假",
             "featureURI": "https://eschool.tp.edu.tw/UrlAuth.do?type=cooc&return_url=/jsp/web-absent/pub/index.jsp?fn=1",
             "production": true,
             "nickname": "線上請假 國小",
@@ -395,7 +395,7 @@
         "dayOff": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
-            "label": "線上請假",
+            "label": "學生請假",
             "featureURI": "https://vschool.tp.edu.tw/Mvc_SD22",
             "production": true,
             "nickname": "線上請假 高職",
@@ -417,7 +417,7 @@
         "dayOffJS": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
-            "label": "線上請假",
+            "label": "學生請假",
             "featureURI": "https://school.tp.edu.tw/educooc/link1",
             "production": true,
             "nickname": "線上請假 國中",
@@ -439,7 +439,7 @@
         "dayOffHS": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
-            "label": "線上請假",
+            "label": "學生請假",
             "featureURI": "https://sschool.tp.edu.tw/educooc/link1",
             "production": true,
             "nickname": "線上請假 高中",
