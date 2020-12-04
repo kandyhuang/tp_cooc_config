@@ -7,7 +7,7 @@
                 "link": "https://beta.itunes.apple.com"
             },
             "android": {
-                "version": "1.0.3",
+                "version": "1.0.22",
                 "build": "22",
                 "link": "https://play.google.com/store/apps/details?id=edu.tp_cooc_mobile_react&hl=en_US&gl=US"
             }
