@@ -545,6 +545,20 @@
             "urlProcessed": true,
             "openOnBrowser": false,
             "isWebApp": true
+        },
+        "eCoinAPP": {
+            "headerHide": true,
+            "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_4.E%E9%85%B7%E5%B9%A3.png",
+            "label": "臺北e酷幣",
+            "featureURI": "https://ecc.tp.edu.tw/EcoolWeb/Home/PortalIndex",
+            "appleStore": "https://apps.apple.com/tw/app/%E8%87%BA%E5%8C%97e%E9%85%B7%E5%B9%A3/id1153911403",
+            "googlePlay": "https://play.google.com/store/apps/details?id=com.micb2b.ecool&hl=zh_TW&gl=US",
+            "production": true,
+            "nickname": "",
+            "urlProcessed": true,
+            "openOnBrowser": true,
+            "isWebApp": true,
+            "isUniversalLink": false
         }
     },
     "devMode": {
@@ -576,6 +590,7 @@
                 "award",
                 "absence",
                 "score",
+                "eCoinAPP",
                 "oAuth"
                 
 
