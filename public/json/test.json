@@ -421,7 +421,7 @@
             "isWebApp": true
         },
         "dayOffJS": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
             "label": "學生請假",
             "featureURI": "https://school.tp.edu.tw/educooc/link1",
@@ -443,7 +443,7 @@
             "isWebApp": true
         },
         "dayOffHS": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_10.%E7%B7%9A%E4%B8%8A%E8%AB%8B%E5%81%87.png",
             "label": "學生請假",
             "featureURI": "https://sschool.tp.edu.tw/educooc/link1",
@@ -531,7 +531,7 @@
             "isWebApp": true
         },
         "club": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/club.png",
             "label": "活動報名",
             "featureURI": "http://163.21.135.55/educooc/tpact",
