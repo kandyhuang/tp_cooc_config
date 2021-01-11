@@ -609,7 +609,8 @@
                 "oAuth",
                 "surveyS",
                 "eCoinAPP",
-                "club"
+                "club",
+                "contact"
             ],
             "parent": [
                 "bulletin",
@@ -710,6 +711,7 @@
             "高中": {
                 "teacher": [
                     "rollCallHS",
+                    "ePay",
                     "classroom",
                     "ssSh",
                     "history"
@@ -750,6 +752,7 @@
             "高職": {
                 "teacher": [
                     "rollCall",
+                    "ePay",
                     "classroom",
                     "ssSTh",
                     "history"
@@ -786,6 +789,7 @@
             "國中": {
                 "teacher": [
                     "rollCallJS",
+                    "ePay",
                     "classroom",
                     "ssJh"
                     
@@ -818,6 +822,7 @@
                 "teacher": [
                     "dayOffES",
                     "rollCallES",
+                    "ePay",
                     "classroom",
                     "ssEs",
                     "eCoin"
