@@ -16,9 +16,7 @@
         "公佈欄系統": "公佈欄",
         "到離校系統": "到離校",
         "校園繳費系統": "校園繳費系統",
-        "調查表/回條": "調查表回條P",
-        "調查表/回條": "調查表回條T",
-        "調查表/回條": "調查表回條S",
+        "調查表/回條": "回條調查表",
         "活動報名": "活動報名",
         "電子聯絡簿": "電子聯絡簿",
 		"羿均那裡的名字": "app裡面的名字"
@@ -500,7 +498,7 @@
         "surveyP": {
             "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/survey.png",
-            "label": "調查表回條P",
+            "label": "回條調查表",
             "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Parent",
             "production": true,
             "nickname": "調查表回條家長",
@@ -511,7 +509,7 @@
         "surveyT": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/survey.png",
-            "label": "調查表回條T",
+            "label": "回條調查表",
             "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Teacher",
             "production": true,
             "nickname": "調查表回條老師",
@@ -522,7 +520,7 @@
         "surveyS": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/survey.png",
-            "label": "調查表回條S",
+            "label": "回條調查表",
             "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Student",
             "production": true,
             "nickname": "調查表回條學生",
