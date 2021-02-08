@@ -77,7 +77,7 @@
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_6.%E5%88%B0%E9%9B%A2%E6%A0%A1.png",
             "featureURI": "https://beta.cooc.tp.edu.tw/arrive-leave",
-            "label": "到離校",
+            "label": "到離校紀錄",
             "production": true,
             "nickname": "",
             "urlProcessed": true,
@@ -135,7 +135,7 @@
         "history": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_2.%E9%AB%98%E4%B8%AD%E8%81%B7%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.png",
-            "label": "學習歷程",
+            "label": "臺北市高中職學習歷程檔案",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://e-portfolio.cooc.tp.edu.tw/ldap/link",
             "production": true,
             "nickname": "",
@@ -146,7 +146,7 @@
         "ssEs": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
-            "label": "校務行政",
+            "label": "校園行政系統",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://beta.cooc.tp.edu.tw/assets/html/eschool.html",
             "production": true,
             "nickname": "校務行政 國小",
@@ -168,7 +168,7 @@
         "ssJh": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
-            "label": "校務行政",
+            "label": "校園行政系統",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://school.tp.edu.tw/educooc/linkSchool",
             "production": true,
             "nickname": "校務行政 國中",
@@ -190,7 +190,7 @@
         "ssSh": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
-            "label": "校務行政",
+            "label": "校園行政系統",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://sschool.tp.edu.tw/educooc/linkSchool",
             "production": true,
             "nickname": "校務行政 高中",
@@ -212,7 +212,7 @@
         "ssSTh": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
-            "label": "校務行政",
+            "label": "校園行政系統",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://beta.cooc.tp.edu.tw/assets/html/tp_vschool.html",
             "production": true,
             "nickname": "校務行政 高職",
@@ -234,7 +234,7 @@
         "coclsP": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
-            "label": "酷學習",
+            "label": "酷學習教學平台",
             "featureURI": "http://61.220.251.168/cooc/Restful/coocLoginOne/parent/",
             "production": true,
             "nickname": "",
@@ -245,7 +245,7 @@
         "coclsT": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
-            "label": "酷學習",
+            "label": "酷學習教學平台",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://coocmaster.tp.edu.tw/Restful/coocLoginOne/teacher/",
             "production": true,
             "nickname": "",
@@ -267,7 +267,7 @@
         "coclsS": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_3.%E9%85%B7%E5%AD%B8%E7%BF%92.png",
-            "label": "酷學習",
+            "label": "酷學習教學平台",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://coocmaster.tp.edu.tw/Restful/coocLoginOne/student/",
             "production": true,
             "nickname": "",
@@ -486,7 +486,7 @@
         },
         "score": {
             "headerHide": true,
-            "imgURI": "https://testnewprocess.web.app/img/score.png",
+            "imgURI": "https://testnewprocess.web.app/img/score1.png",
             "label": "成績查詢",
             "featureURI": "https://beta.cooc.tp.edu.tw/score",
             "production": true,
@@ -531,7 +531,7 @@
         "club": {
             "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/club.png",
-            "label": "活動報名",
+            "label": "報名系統",
             "featureURI": "https://signup.tp.edu.tw/educooc/tpact",
             "production": true,
             "nickname": "",
@@ -542,7 +542,7 @@
         "contact": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/contact.png",
-            "label": "電子聯絡簿",
+            "label": "班級聯絡簿",
             "featureURI": "https://ebook.tp.edu.tw/educooc/tpcnt",
             "production": true,
             "nickname": "",
