@@ -76,7 +76,7 @@
         "atSchool": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/atSchool.png",
-            "featureURI": "https://beta.cooc.tp.edu.tw/atSchool",
+            "featureURI": "https://beta.cooc.tp.edu.tw/arrive-leave",
             "label": "到離校紀錄",
             "production": true,
             "nickname": "",
