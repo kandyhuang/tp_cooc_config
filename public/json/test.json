@@ -3,12 +3,12 @@
             "prompt": "恭喜你, 有新的更新可以下載!",
             "ios": {
                 "version": "1.0",
-                "build": "69",
+                "build": "98",
                 "link": "https://beta.itunes.apple.com"
             },
             "android": {
-                "version": "1.0.22",
-                "build": "22",
+                "version": "1.0.27",
+                "build": "27",
                 "link": "https://play.google.com/store/apps/details?id=edu.tp_cooc_mobile_react&hl=en_US&gl=US"
             }
         },
@@ -146,7 +146,7 @@
         "ssEs": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
-            "label": "校園行政系統",
+            "label": "校務行政系統",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://beta.cooc.tp.edu.tw/assets/html/eschool.html",
             "production": true,
             "nickname": "校務行政 國小",
@@ -168,7 +168,7 @@
         "ssJh": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
-            "label": "校園行政系統",
+            "label": "校務行政系統",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://school.tp.edu.tw/educooc/linkSchool",
             "production": true,
             "nickname": "校務行政 國中",
@@ -190,7 +190,7 @@
         "ssSh": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
-            "label": "校園行政系統",
+            "label": "校務行政系統",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://sschool.tp.edu.tw/educooc/linkSchool",
             "production": true,
             "nickname": "校務行政 高中",
@@ -212,7 +212,7 @@
         "ssSTh": {
             "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_8.%E6%A0%A1%E5%8B%99%E8%A1%8C%E6%94%BF.png",
-            "label": "校園行政系統",
+            "label": "校務行政系統",
             "featureURI": "https://beta.cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://beta.cooc.tp.edu.tw/assets/html/tp_vschool.html",
             "production": true,
             "nickname": "校務行政 高職",
