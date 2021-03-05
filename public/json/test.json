@@ -3,7 +3,7 @@
             "prompt": "恭喜你, 有新的更新可以下載！",
             "ios": {
                 "version": "1.0",
-                "build": "98",
+                "build": "91",
                 "link": "https://beta.itunes.apple.com"
             },
             "android": {
