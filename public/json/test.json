@@ -323,7 +323,7 @@
             "sliceIndex":2
         },
         "rollCall_test": {
-            "headerHide": false,
+            "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/20200817%E8%87%BA%E5%8C%97%E8%A6%AA%E5%B8%AB%E7%94%9FIcons_b_11.%E7%B7%9A%E4%B8%8A%E9%BB%9E%E5%90%8D.png",
             "label": "高職線上點名",
             "featureURI": "https://infobridge.com.tw/Mvc_SD62_ForPTS",
@@ -407,7 +407,7 @@
             "sliceIndex":0
         },
         "dayOffES": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/dayoff.png",
             "label": "學生請假",
             "featureURI": "https://eschool.tp.edu.tw/UrlAuth.do?type=cooc&return_url=/jsp/web-absent/pub/index.jsp?fn=1",
@@ -479,7 +479,7 @@
             "sliceIndex":0
         },
         "dayOffHS": {
-            "headerHide": false,
+            "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/dayoff.png",
             "label": "學生請假",
             "featureURI": "https://sschool.tp.edu.tw/educooc/link1",
@@ -503,7 +503,7 @@
             "sliceIndex":0
         },
         "award": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/award1.png",
             "label": "獎懲查詢",
             "featureURI": "https://beta.cooc.tp.edu.tw/merit",
@@ -515,7 +515,7 @@
             "sliceIndex":2
         },
         "absence": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/absence1.png",
             "label": "缺曠查詢",
             "featureURI": "https://beta.cooc.tp.edu.tw/absence",
@@ -527,7 +527,7 @@
             "sliceIndex":2
         },
         "score": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/score1.png",
             "label": "成績查詢",
             "featureURI": "https://beta.cooc.tp.edu.tw/score",
@@ -551,7 +551,7 @@
             "sliceIndex":2
         },
         "surveyT": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/survey1.png",
             "label": "回條調查表",
             "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Teacher",
@@ -563,7 +563,7 @@
             "sliceIndex":2
         },
         "surveyS": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/survey1.png",
             "label": "回條調查表",
             "featureURI": "https://survey.tp.edu.tw/eSurvey/xapi/member/AppCooc/Student",
@@ -575,7 +575,7 @@
             "sliceIndex":2
         },
         "club": {
-            "headerHide": false,
+            "headerHide": true,
             "imgURI": "https://testnewprocess.web.app/img/club1.png",
             "label": "報名系統",
             "featureURI": "https://signup.tp.edu.tw/educooc/tpact",
