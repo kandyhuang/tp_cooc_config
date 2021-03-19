@@ -1,0 +1,184 @@
+
+{"newUIConfig": {
+	"default-ui": "new",
+    "white-list": ["da35f8ea-7743-4049-9991-645521ef0381a",
+    	"8cac2c86-6388-4b41-9230-133d6fa38f70a", "655fb73c-b190-4e39-ae93-5834ddc04a38!"]
+},
+"digitalResources": [
+    {
+        "sectionTitle": "精選學習平台",
+        "items": [
+                    {
+                        "id": "1",
+                        "uri": "http://learning.cooc.tp.edu.tw/coocLearning",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/resource.png",
+                        "title": "學科影片"
+                    },
+                    {
+                        "id": "2",
+                        "uri": "https://ono.tp.edu.tw/insc",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/s7.png",
+                        "title": "臺北教師e學苑"
+                    }
+                ]
+    },
+    {
+        "sectionTitle": "主題式多元學習",
+        "items": [
+                    {
+                        "id": "1",
+                        "uri": "http://techpro.tp.edu.tw/manager/cms/taipei-edu/program.html",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/CLing.png",
+                        "title": "臺北市程式教育專區"
+                    },
+                    {
+                        "id": "2",
+                        "uri": "https://ilearning.liveabc.com/taiwan/#/places",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/liveabc.png",
+                        "title": "智慧城鄉-遊臺灣學英語"
+                    },
+                    {
+                        "id": "3",
+                        "uri": "https://ono.tp.edu.tw/course/395161",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/FTC.png",
+                        "title": "臺北市家庭教育中心課程"
+                    }
+                ]
+    },
+    {
+        "sectionTitle": "圖書館資源探索",
+        "items": [
+                    
+                    {
+                        "id": "1",
+                        "uri": "https://cooc.tp.edu.tw/oauth/authorize?client_id=58843FCEDA19428195570FBC1F58AEC8&response_type=code&redirect_uri=https%3A%2F%2Freading.cooc.tp.edu.tw/callback.php&scope=User.Info,User.Role,User.RoleDetail",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/reading.png",
+                        "title": "酷課閱讀"
+                    },
+                    {
+                        "id": "2",
+                        "uri": "https://onlinedb.tp.edu.tw/",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/resource.png",
+                        "title": "課外圖書知識庫"
+                    },
+                    {
+                        "id": "3",
+                        "uri": "https://sites.google.com/view/classicmasterpieces",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/literacy.png",
+                        "title": "經典閱讀好好聽"
+                    },
+                    {
+                        "id": "4",
+                        "uri": "https://isearch.tpml.edu.tw/tpmlhyint/cooc.jsp",
+                        "iconUri": "https://cooc.tp.edu.tw//assets/img/s8.png",
+                        "title": "臺北市立圖書館"
+                    },
+                    {
+                        "id": "5",
+                        "uri": "http://ebook.nlpi.edu.tw/LoginCheck/cooc",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/s9.png",
+                        "title": "國立公共資訊圖書館"
+                    },
+                    {
+                        "id": "6",
+                        "uri": "http://rrcils.ncl.edu.tw/",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/rrcils_ncl.png",
+                        "title": "公共圖書館共享平台"
+                    },
+                    {
+                        "id": "7",
+                        "uri": "http://163.21.13.2/plugin/yingguang/",
+                        "iconUri": "https://cooc.tp.edu.tw/assets/img/icon002.png",
+                        "title": "深耕閱讀推動資源網"
+                    }
+                ]
+    }
+],
+"newUI": {
+		"教育局": {
+			 "teacher": [
+	                    ["club"],
+	                    ["surveyT","ePay"],
+	                    ["coclsS", "history"]
+	                ],
+	                "student": [
+	                    ["dayOffHS","rollCallHS","contact","score","absence","award","club"],
+	                    ["surveyS","ePay"],
+	                    ["ssSh","coclsS","history"]
+	                ],
+	                "parent": [
+	                    ["dayOffHS","contact","score","absence","award","atSchool","club"],
+	                    ["surveyP","ePay"],
+	                    ["ssSh","history"]
+	                ]
+			
+		     },
+	       "高中": {
+                "teacher": [
+                    ["rollCallHS","contact","classroom","club"],
+                    ["surveyT","ePay"],
+                    ["ssSh","coclsT","history"]
+                ],
+                "student": [
+                    ["dayOffHS","rollCallHS","contact","score","absence","award","club"],
+                    ["surveyS","ePay"],
+                    ["ssSh","coclsS","history"]
+                ],
+                "parent": [
+                    ["dayOffHS","contact","score","absence","award","atSchool","club"],
+                    ["surveyP","ePay"],
+                    ["ssSh","history"]
+                ]
+            },
+            "高職": {
+                "teacher": [
+                    ["rollCall","contact","classroom","club"],
+                    ["surveyT","ePay"],
+                    ["ssSTh","coclsT","history"]
+                ],
+                "student": [
+                    ["dayOff","rollCall","contact","score","absence","award","club"],
+                    ["surveyS","ePay"],
+                    ["ssSTh","coclsS","history"]
+                ],
+                "parent": [
+                    ["dayOff","contact","score","absence","award","atSchool","club"],
+                    ["surveyP","ePay"],
+                    ["ssSTh","history"]
+                ]
+            },
+            "國中": {
+                "teacher": [
+                    ["rollCallJS","contact","classroom","club"],
+                    ["surveyT","ePay"],
+                    ["ssJh","coclsT"]
+                ],
+                "student": [
+                    ["dayOffJS","rollCallJS","contact","score","absence","award","club"],
+                    ["surveyS","ePay"],
+                    ["ssJh","coclsS"]
+                ],
+                "parent": [
+                    ["dayOffJS","contact","score","absence","award","atSchool","club"],
+                    ["surveyP","ePay"],
+                    ["ssJh"]
+                ]
+            },
+            "國小": {
+                "teacher": [
+                    ["dayOffES","rollCallES","contact","classroom","club"],
+                    ["surveyT","ePay"],
+                    ["ssEs","eCoin","coclsT"]
+                ],
+                "student": [
+                    ["dayOffES","rollCallES","contact","score","absence","club"],
+                    ["surveyS","ePay"],
+                    ["eCoin","coclsS"]
+                ],
+                "parent": [
+                    ["dayOffES","contact","score","absence","atSchool","club"],
+                    ["surveyP","ePay"],
+                    ["ssEs"]
+                ]
+            }
+}}
