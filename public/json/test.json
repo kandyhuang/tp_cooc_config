@@ -3,7 +3,7 @@
             "prompt": "恭喜你, 有新的更新可以下載！",
             "ios": {
                 "version": "1.0",
-                "build": "103",
+                "build": "104",
                 "link": "https://testflight.apple.com/join/wPvz1cSm"
             },
             "android": {
