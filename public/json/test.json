@@ -3,8 +3,8 @@
             "prompt": "恭喜你, 有新的更新可以下載！",
             "ios": {
                 "version": "1.0",
-                "build": "91",
-                "link": "https://beta.itunes.apple.com"
+                "build": "103",
+                "link": "https://testflight.apple.com/join/wPvz1cSm"
             },
             "android": {
                 "version": "1.0.29",
