@@ -91,7 +91,7 @@
             "sliceIndex":3
         },
         "ePay": {
-            "headerHide": true,
+            "headerHide": false,
             "imgURI": "https://testnewprocess.web.app/img/epay.png",
             "featureURI": "https://cooc.tp.edu.tw/api/app_redirect/sync_signin_ldap?redirect=https://epay.tp.edu.tw/ePay/SSO/SSOParsentLoginPage",
             "label": "校園繳費系統",
