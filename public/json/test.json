@@ -7,9 +7,9 @@
                 "link": "https://testflight.apple.com/join/wPvz1cSm"
             },
             "android": {
-                "version": "1.0.29",
-                "build": "29",
-                "link": "https://play.google.com/store/apps/details?id=edu.tp_cooc_mobile_react&hl=en_US&gl=US"
+                "version": "1.0.34",
+                "build": "34",
+                "link": "https://play.google.com/store/apps/details?id=edu.tp_cooc_mobile_react"
             }
         },
     "mapping": {
