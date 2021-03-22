@@ -178,7 +178,7 @@
                 "parent": [
                     ["dayOffES","contact","score","absence","atSchool","club"],
                     ["surveyP","ePay"],
-                    ["ssEs"]
+                    ["eCoin"]
                 ]
             }
 }}
