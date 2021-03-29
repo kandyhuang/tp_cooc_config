@@ -3,12 +3,12 @@
             "prompt": "恭喜你, 有新的更新可以下載！",
             "ios": {
                 "version": "1.0",
-                "build": "107",
+                "build": "0",
                 "link": "https://testflight.apple.com/join/wPvz1cSm"
             },
             "android": {
-                "version": "1.0.37",
-                "build": "37",
+                "version": "1.0.0",
+                "build": "0",
                 "link": "https://play.google.com/store/apps/details?id=edu.tp_cooc_mobile_react"
             }
         },
