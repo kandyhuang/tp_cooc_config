@@ -37,7 +37,7 @@
                 "link": "https://apps.apple.com/us/app/%E9%85%B7%E8%AA%B2/id1560628279"
             },
             "android": {
-                "version": "1.0.4",
+                "version": "1.0.0",
                 "build": "0",
                 "link": "https://play.google.com/store/apps/details?id=edu.tp_pts_cooc"
             }
